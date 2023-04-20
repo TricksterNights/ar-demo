@@ -1,0 +1,7 @@
+# 忽略的文件
+node_modules
+dist
+*.log
+
+# 编辑器配置
+.idea
